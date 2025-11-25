@@ -1,5 +1,6 @@
 
-<img width="2000" height="600" alt="Cover Image" src="https://github.com/user-attachments/assets/503176f1-3c57-4561-b03d-2372ad1e86e5" />
+<img width="2000" height="600" alt="Cover Image" src="https://github.com/user-attachments/assets/da205641-14b9-4f9c-8c30-d67173475c5d" />
+
 
 <hr/>
 
