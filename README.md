@@ -1,3 +1,5 @@
+<img width="2000" height="600" alt="White and Black Minimalist Virtual Assistant LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/8b9ff9a1-2fc0-48f9-8c98-6d57a0dc0562" />
+
 
 <hr/>
 
