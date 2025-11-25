@@ -4,7 +4,7 @@
 ## Chidimma Glory Ogboeze
 Penetration Tester & Data Analysis Enthusiast | Driven by Problem-Solving and Continuous Tech Advancement
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/chidimmaogboeze) and [X]()
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/chidimmaogboeze/) and [X]()
   
 
 
